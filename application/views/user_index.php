@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>User Dashboard</title>
-        <center><h1>User Management Section</h1></center>
+        <center><h1 class ="text-center">User Management Section</h1></center>
     </head>
 	
     <body>
